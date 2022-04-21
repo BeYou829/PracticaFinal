@@ -1,0 +1,8 @@
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\bin\Debug\I A E A proyecto tercer parcial.exe.config
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\bin\Debug\I A E A proyecto tercer parcial.exe
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\bin\Debug\I A E A proyecto tercer parcial.pdb
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\obj\Debug\I A E A proyecto tercer parcial.csproj.AssemblyReference.cache
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\obj\Debug\I A E A proyecto tercer parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\obj\Debug\I A E A proyecto tercer parcial.csproj.CoreCompileInputs.cache
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\obj\Debug\I A E A proyecto tercer parcial.exe
+C:\Users\Engel\Source\Repos\proyecto-tercer-parcial-para-bessewel\I A E A proyecto tercer parcial\obj\Debug\I A E A proyecto tercer parcial.pdb
